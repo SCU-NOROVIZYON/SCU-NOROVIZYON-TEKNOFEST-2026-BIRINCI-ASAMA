@@ -22,8 +22,8 @@ ClinVar
 → Varyantların klinik etiketleri (benign / pathogenic)
 Landrum, M. J., et al. ClinVar: improving access to variant interpretations and supporting evidence. Nucleic Acids Research, 2018.
 https://www.ncbi.nlm.nih.gov/clinvar/
-dbNSFP
 
+dbNSFP
 → Fonksiyonel skorlar ve öznitelikler
 Liu, X., et al. dbNSFP v4: a comprehensive database of functional predictions and annotations for human nonsynonymous variants. Human Mutation, 2020
 https://www.dbnsfp.org/
@@ -58,7 +58,9 @@ SHAP analizleri<br>
 ### 📁 Klasör Yapısı
 
 ├── threshold_results/
+
 ├── source_codes/
+
 ├── experiment_results/<br>
 <br><br>
 
