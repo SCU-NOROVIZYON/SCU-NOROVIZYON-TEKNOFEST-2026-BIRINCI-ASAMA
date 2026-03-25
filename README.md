@@ -5,14 +5,14 @@
 Bu repository, genetik varyantların patogenic (zararlı) veya benign (zararsız) olarak sınıflandırılması için geliştirilmiş uçtan uca bir makine öğrenmesi sistemini içermektedir.
 
 Proje, TEKNOFEST Sağlıkta Yapay Zeka Yarışması kapsamında geliştirilmiştir.
-<br>
+<br><br>
 
 ### 🎯 Proje Amacı
 
 Bu çalışmanın amacı, genomik varyantların klinik etkilerini otomatik olarak tahmin edebilen, genelleme gücü yüksek ve açıklanabilir bir model geliştirmektir.
 
 Sistem, farklı gen panelleri üzerinde çalışabilecek şekilde tasarlanmış ve hem performans hem de klinik güvenilirlik dikkate alınmıştır.
-<br>
+<br><br>
 
 ### 📊 Veri Kaynakları
 
@@ -27,7 +27,7 @@ dbNSFP
 → Fonksiyonel skorlar ve öznitelikler
 Liu, X., et al. dbNSFP v4: a comprehensive database of functional predictions and annotations for human nonsynonymous variants. Human Mutation, 2020
 https://www.dbnsfp.org/
-<br>
+<br><br>
 
 ### ⚙️ Pipeline Özeti
 
@@ -53,28 +53,28 @@ Farklı algoritmalar ile eğitim
 ROC-AUC, PR-AUC, F1, Balanced Accuracy
 Sensitivity / Specificity
 SHAP analizleri<br>
-
+<br><br>
 
 ### 📁 Klasör Yapısı
 
 ├── threshold_results/
 ├── source_codes/
 ├── experiment_results/<br>
-
+<br><br>
 
 ### 📈 Çıktılar
 Model performans metrikleri
 Threshold optimizasyon sonuçları
 SHAP açıklanabilirlik grafikleri
 Eğitilmiş model dosyaları (.pkl)<br>
-
+<br><br>
 
 ### 🧠 Kullanılan Yaklaşım
 Panel bazlı öğrenme yaklaşımı
 Farklı öznitelik grupları (full / meta / pure)
 Threshold tuning ile klinik risk optimizasyonu
 Açıklanabilir yapay zeka (XAI)<br>
-
+<br><br>
 
 ### 👥 Takım
 
@@ -82,7 +82,7 @@ Bu proje 3 kişilik bir ekip tarafından geliştirilmiştir:
 #### Beyza Nur KARATAĞ
 #### Alperen İLHAN
 #### Muhammed Mustafa KİLCAROĞLU
-<br>
+<br><br>
 
 ### 📌 Notlar
 Bu proje araştırma ve yarışma kapsamında geliştirilmiştir. Klinik tanı, tedavi veya hasta yönetimi süreçlerinde kullanılması kesinlikle önerilmez ve bu amaçla kullanılmamalıdır. Bu tür kullanımlardan doğabilecek sonuçlardan geliştiriciler sorumlu değildir.
