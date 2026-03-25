@@ -1,0 +1,44 @@
+{
+    "A": {
+        "lightgbm": {
+            "threshold": 0.6262626262626263,
+            "f1_score": 0.9894419306184012
+        },
+        "xgboost": {
+            "threshold": 0.33333333333333337,
+            "f1_score": 0.9894419306184012
+        },
+        "logistic regression": {
+            "threshold": 0.7373737373737375,
+            "f1_score": 0.984227943765109
+        }
+    },
+    "B": {
+        "lightgbm": {
+            "threshold": 0.2828282828282829,
+            "f1_score": 0.984227943765109
+        },
+        "xgboost": {
+            "threshold": 0.4444444444444445,
+            "f1_score": 0.9737132396085151
+        },
+        "logistic regression": {
+            "threshold": 0.5757575757575758,
+            "f1_score": 0.9790556334735858
+        }
+    },
+    "C": {
+        "lightgbm": {
+            "threshold": 0.33333333333333337,
+            "f1_score": 0.9190887856093626
+        },
+        "xgboost": {
+            "threshold": 0.787878787878788,
+            "f1_score": 0.9217713208074317
+        },
+        "logistic regression": {
+            "threshold": 0.595959595959596,
+            "f1_score": 0.8983942665336115
+        }
+    }
+}
