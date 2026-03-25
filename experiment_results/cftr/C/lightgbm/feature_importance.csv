@@ -1,0 +1,16 @@
+feature,importance
+phyloP100way_vertebrate,517
+dbNSFP_POPMAX_AF,414
+GERP++_RS,373
+GERP_92_mammals,284
+phyloP470way_mammalian,257
+gnomAD4.1_joint_POPMAX_AF,173
+phastCons100way_vertebrate,135
+MANE_Empty,128
+gnomAD4.1_joint_AF,122
+dbNSFP_POPMAX_AF_was_na,72
+GERP_92_mammals_was_na,39
+phastCons470way_mammalian,35
+MANE_Select,28
+gnomAD4.1_joint_AF_was_na,14
+gnomAD4.1_joint_POPMAX_AF_was_na,0

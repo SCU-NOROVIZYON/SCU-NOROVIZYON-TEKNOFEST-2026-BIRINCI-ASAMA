@@ -1,0 +1,4 @@
+group,mean_importance,std_importance,num_features,normalized_importance
+mane,0.6262769,0.8116622,2,0.45926127
+conservation,0.55279416,0.46977875,7,0.4053749
+population,0.18459038,0.28252938,6,0.13536379

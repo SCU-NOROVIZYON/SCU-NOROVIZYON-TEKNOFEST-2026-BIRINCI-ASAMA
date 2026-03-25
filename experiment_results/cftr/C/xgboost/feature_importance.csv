@@ -1,0 +1,16 @@
+feature,importance
+phastCons470way_mammalian,0.65808356
+MANE_Empty,0.10662524
+phastCons100way_vertebrate,0.050837055
+GERP++_RS,0.04208416
+gnomAD4.1_joint_AF,0.034054827
+dbNSFP_POPMAX_AF,0.021744955
+phyloP100way_vertebrate,0.020672394
+GERP_92_mammals,0.018382136
+gnomAD4.1_joint_POPMAX_AF,0.01798872
+dbNSFP_POPMAX_AF_was_na,0.009463106
+phyloP470way_mammalian,0.0082284035
+GERP_92_mammals_was_na,0.008194953
+gnomAD4.1_joint_AF_was_na,0.0036405018
+gnomAD4.1_joint_POPMAX_AF_was_na,0.0
+MANE_Select,0.0
