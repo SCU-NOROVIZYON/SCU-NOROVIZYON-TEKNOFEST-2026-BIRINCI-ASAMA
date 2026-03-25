@@ -1,2 +1,7 @@
 # SCU-NOROVIZYON-TEKNOFEST-2026-BIRINCI-ASAMA
-TEKNOFEST Sağlıkta Yapay Zeka yarışması kapsamında geliştirilen, genetik varyantların patojenik veya benign olarak sınıflandırılması için uçtan uca makine öğrenmesi sistemi. Veri ön işleme, özellik mühendisliği, panel bazlı veri setleri, model eğitimi ve eşik optimizasyonu adımlarını kapsar.
+###🧬 Genetic Variant Classification System
+####TEKNOFEST 2026 – Sağlıkta Yapay Zeka Yarışması
+
+Bu repository, genetik varyantların patogenic (zararlı) veya benign (zararsız) olarak sınıflandırılması için geliştirilmiş uçtan uca bir makine öğrenmesi sistemini içermektedir.
+
+Proje, TEKNOFEST Sağlıkta Yapay Zeka Yarışması kapsamında geliştirilmiştir.
