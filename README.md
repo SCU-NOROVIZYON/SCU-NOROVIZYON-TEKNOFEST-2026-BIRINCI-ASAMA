@@ -18,14 +18,14 @@ Sistem, farklı gen panelleri üzerinde çalışabilecek şekilde tasarlanmış 
 
 Projede kullanılan temel veri kaynakları:
 
-ClinVar
+#### ClinVar
 → Varyantların klinik etiketleri (benign / pathogenic)
 
 Landrum, M. J., et al. ClinVar: improving access to variant interpretations and supporting evidence. Nucleic Acids Research, 2018.
 
 https://www.ncbi.nlm.nih.gov/clinvar/
 
-dbNSFP
+#### dbNSFP
 → Fonksiyonel skorlar ve öznitelikler
 
 Liu, X., et al. dbNSFP v4: a comprehensive database of functional predictions and annotations for human nonsynonymous variants. Human Mutation, 2020
